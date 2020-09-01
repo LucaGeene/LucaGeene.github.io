@@ -1,0 +1,16 @@
+head {
+    border-color: tomato;
+}
+
+
+body {
+    color:black;
+}
+
+h1 { 
+    color:white;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
