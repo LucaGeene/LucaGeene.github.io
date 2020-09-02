@@ -24,9 +24,23 @@ li a:hover {
 }
 
 body {
-    background-color: powderblue;
-    backdrop-filter: blur(10px);
+background-color: whitesmoke;
+
 }
 p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    position: relative;;
+}
+
+#header {
+    background-image: url("header.png");
+    margin: 100px;
+    max-width: 100%;
+}
+
+h1 {
+    text-align: center;
 }
