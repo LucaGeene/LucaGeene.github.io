@@ -2,19 +2,21 @@
 #header {
     background-image: url("header.png");
     background-size: cover;
-    padding: 50px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
+    padding: 75px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
 }
 /* navigation, buttons moeten in radius*/
 ul {
     list-style-type: none;
-    margin: 0;
+    margin-bottom: -7%;
+    margin-right: -7%;
+    margin-left: -7%;
     padding: 10px;
     overflow: hidden;
     background-color: #333;
     position: sticky;
-    border-radius: 20px;
+    border-radius: 15px;
 }
 
 li {
@@ -27,7 +29,8 @@ li a {
     text-align: center;
     padding: 10px 30px;
     text-decoration: none;
-    border-radius: 20px;
+    border-radius: 15px;
+    margin: -5%;
 }
   
 li a:hover {
@@ -39,7 +42,7 @@ li a:hover {
 
 /* rest, is nog probeersel, moet FLINK verbeterd worden */
 body {
-background-color: whitesmoke;
+margin: auto;
 
 }
 p {
