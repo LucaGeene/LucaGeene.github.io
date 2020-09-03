@@ -1,5 +1,5 @@
 /* header, before navigation /w image and logo */
-#header {
+header {
     background-image: url("header.png");
     background-size: cover;
     padding: 75px;
@@ -14,10 +14,8 @@ nav {
     margin-right: -60px;
     margin-left: -60px;
     padding: 10px;
-    overflow: auto;
+    overflow: hidden;
     background-color: #333;
-    position: sticky;
-    top: 5px;
     border-radius: 15px;
 }
 
@@ -45,7 +43,8 @@ li a:hover {
 body {
     margin: auto;
     background-image: url("body.jpg");
-    background-size: cover;
+    background-size:cover;
+
 }
 
 p {
