@@ -1,3 +1,11 @@
+/* header, before navigation /w image and logo */
+#header {
+    background-image: url("header.png");
+    background-size: cover;
+    padding: 50px;
+    margin-bottom: 10px;
+}
+/* navigation */
 ul {
     list-style-type: none;
     margin: 0;
@@ -8,11 +16,11 @@ ul {
 }
 
 li {
-    float: left;
+    float: left;  
 }
   
 li a {
-    display: block;
+    display: inline-block;
     color: white;
     text-align: center;
     padding: 14px 16px;
@@ -35,11 +43,7 @@ h1 {
     position: relative;;
 }
 
-#header {
-    background-image: url("header.png");
-    margin: 100px;
-    max-width: 100%;
-}
+
 
 h1 {
     text-align: center;
