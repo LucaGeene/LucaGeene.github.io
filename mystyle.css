@@ -14,9 +14,10 @@ nav {
     margin-right: -60px;
     margin-left: -60px;
     padding: 10px;
-    overflow: hidden;
+    overflow: auto;
     background-color: #333;
     position: sticky;
+    top: 5px;
     border-radius: 15px;
 }
 
