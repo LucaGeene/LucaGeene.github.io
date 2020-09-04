@@ -44,6 +44,7 @@ body {
     margin: auto;
     background-image: url("body.jpg");
     background-size:cover;
+    top: 20px;
 
 }
 
