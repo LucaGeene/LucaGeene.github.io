@@ -76,4 +76,36 @@ p {
     border-radius: 40px;
     box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0, 0.19); 
  }
+ 
+ #frdashmid {
+     float: right;
+     margin-right: 5%;
+ }
 
+ #frdashside {
+     float: left;
+     margin-left: 5%;
+ }
+
+ .framework-side {
+    float: left;
+    width: 20%;
+    background-color: white;
+    padding: 20px;
+    top: 20px;
+    margin-top: 60px;
+    border-radius: 40px;
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0, 0.19); 
+ }
+
+/* tabel */
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
