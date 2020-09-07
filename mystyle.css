@@ -19,31 +19,26 @@ nav {
     margin-bottom: -60px;
     margin-right: -60px;
     margin-left: -60px;
-    padding: 10px;
     overflow: hidden;
     background-color: #333;
     border-radius: 15px;
 }
 
-.stickynav {
-    position: sticky;
-}
-
-li {
+.nav-li {
     float: left;  
 }
   
-li a {
+.nav-li a {
     display: inline-block;
     color: white;
     text-align: center;
-    padding: 10px 30px;
+    padding: 20px 30px;
     text-decoration: none;
     border-radius: 15px;
     transition: 0.8s;
 }
   
-li a:hover {
+.nav-li a:hover {
     background-color: rgb(15, 15, 15);
 }
 .active { 
@@ -73,7 +68,7 @@ p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-
+/* ID's voor dashboard */
 #frdashmid {
     float: right;
     margin-right: 5%;
