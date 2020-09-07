@@ -109,14 +109,17 @@ table {
     border-collapse: collapse;
     width: 100%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid black
   }
 
-  thead {
-      position: sticky;
+th {
+    border: 1px solid gray;
+    text-align: left;
+    padding: 8px;
   }
-  
-  td, th {
-    border: 1px solid #dddddd;
+
+td {
+    border: 1px solid #c5c5c5;
     text-align: left;
     padding: 8px;
   }
