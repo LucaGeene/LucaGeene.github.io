@@ -112,9 +112,8 @@ p {
 
 .profileimg {
     height: 200px;
-    display: inline;
     position: relative;
-    margin: 20px 90px;
+    margin: 20px 95px;
     border-radius: 5px;
     border: 10px double lightgray;
  }
