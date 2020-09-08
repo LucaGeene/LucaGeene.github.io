@@ -10,7 +10,9 @@ header {
 }
 
 h1 {
-    color: black;
+    color: white;
+    padding-bottom: 15px;
+    padding-top: -10px;
 }
 
 /* navigation, buttons moeten in radius*/
@@ -66,14 +68,13 @@ h2 {
 h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 23px; 
-    padding-top: 20px;
+    padding-top: 50px;
 }
 
 p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
-
 
  .framework-middle {
     margin: auto;
@@ -104,6 +105,7 @@ p {
      border: groove black 10px;
      position: relative;
      border-radius: 50px;
+    position: relative;
  }
 
 /* ID's voor dashboard */
@@ -138,4 +140,3 @@ td {
     text-align: left;
     padding: 8px;
   }
-
