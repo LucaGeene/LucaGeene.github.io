@@ -90,7 +90,14 @@ p {
     top: 20px;
     margin-top: 60px;
     border-radius: 40px;
-    box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0, 0.19); 
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.4), 0 6px 20px 0 rgb(0, 0, 0, 0.38); 
+ }
+
+ img {
+     height: 35rem ;
+     border: groove black 10px;
+     object-position: center;
+     border-radius: 50px;
  }
 
 /* ID's voor dashboard */
@@ -103,6 +110,7 @@ p {
     float: left;
     margin-left: 5%;
 }
+
 /* tabel */
 table {
     border-collapse: collapse;
