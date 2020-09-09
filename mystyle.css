@@ -113,7 +113,7 @@ p {
 .profileimg {
     height: 200px;
     position: relative;
-    margin: 20px 95px;
+    margin: 20px 8%;
     border-radius: 5px;
     border: 10px double lightgray;
  }
