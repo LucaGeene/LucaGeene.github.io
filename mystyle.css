@@ -144,6 +144,11 @@ p {
     border: 10px double lightgray;
  }
 
+ .profImg {
+    position: relative;
+    height: 100px;
+    
+ }
 /* ID's voor dashboard */
 #frdashmid {
     float: right;
