@@ -77,6 +77,11 @@ p {
 
 }
 
+pre {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
 .framework-middle {
     margin: auto;
     width: 60%;
